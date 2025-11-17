@@ -1,0 +1,74 @@
+1. System Configure (Use product key)
+2. Login(Username: admin, Password: 12345) and goto <Main Window>
+	1. Search Bill No - Enter bill number and click the <Search Bill> button
+	2. Search Products Info - Select Any Category then click the <Search Products Info> button
+	3. Balance Debit/Credit - Enter Info and enter debit or credit amount then click the <Ok|Submit> button
+	4. Search Ledger - Enter ledger date and click the <Ledger> button or click the <X> button for show all ledger
+	5. Generate Challan - Enter message with condition and then click the <Create|Print Custom Challan> button
+	6. Return Bill - Enter all information and click the <Ok|Return> button
+	7. Edit bill info from table then select any from table and click the <Show|Edit> button
+	8. All clear the table data then click the <Remove|Clear(All Products Information)> button
+	9. Remove any bill info from table then select from table and click the <Remove|Delete Item> button
+	0. Generate Bill - Enter necessary all products info then click the <Submit|Print Bill Information> button
+
+3. File...
+	Click <Bill Payment>
+	1. <Search|Print Bill Info> Enter bill number then click.
+	2. <Search All Bill Info> Click the view all bill info
+	3. <Search Bill Info> Click the view all bill info base on <Mr Code>
+	4. <Delete Bill Info> Select any bill from table and click
+	5. <Print Bill Info> Select any bill from table and click
+	0. Enter collection and click <Ok|Collection> for collection and click <Ok|Ledger> for set ledger balance and click <Ok|Payment> for bill payment
+
+	Click <Bill-UT Collection>
+	1. <Search All Collection> Click the view all bill info
+	2. <Search Collection> Click the view all bill info base on <Mr Code>
+	3. <Delete Collection> Select any bill from table and click
+	4. <Print Collection> Select any bill from table and click
+	5. <Search Date> Enter date and click to show collection
+	0. Enter collection and give ut then click the <Ok|Ledger> for set ledger balance and click <Ok|Collection> for collection
+
+	Click <Bill Information>
+	1. <Search Bill Info> Enter bill number and click to view
+	2. <Print Bill Information> Click for print the bill information
+
+	Click <Products Purchase>
+	1. <Category Search Products> Select any category then click
+	2. <Update Info> Select any product info from table and edit then click
+	3. <Delete|Remove Products Information> Select any product info from table and click
+	4. Enter product info and click the <Products Purchased> button
+	5. <Search Products Info> Enter Band Name/Exp. Date/Date then click
+	6. <Print Products Information> print the products details
+
+	Click <Customers Information>
+	1. <Search Customers Name> View customers information
+	2. <Update Info> Select any customer info from table and edit then click
+	3. <Delete|Remove Customers Information> Select any customer info from table and click
+	4. Enter customer info and click the <Add Customers Information> button
+	5. <Search Customers Info> Enter Mobile/Mr Code then click
+	6. <Print Customers Information> print the customers details
+
+4. Statement...
+	Click <Bill Statement>
+	1. <Search Bill Statement> Enter Code/Date then click
+	2. <Delete Bill Statement> Select any bill info then click
+	3. <Preint Bill Statement> Print the all bill statement
+
+	Click <Due Bill Statement> for show the all due bill statement
+
+5. Administrative...
+	Click <Settings>
+	1. <Save Mr Info> Enter mr information and click
+	2. <Save Company Info> Enter company name or details and click
+	3. <Delete Mr Info> Select any mr info from table and click
+
+	Click <Change Password>
+	Change admin user password - First enter old password and then enter new and confirm password and click the <Press For Change Password> button
+
+
+Notes: If any change or not work properly then restart your program or
+Any Query please contact:
+	
+	Md. Ariful Islam
+	Mobile: +880 1794899422
+	E-mail: ariful.cse08@gmail.com
